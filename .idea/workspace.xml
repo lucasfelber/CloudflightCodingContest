@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e6bddd8-30b3-405b-a0d4-556d4a6e8eff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CloudflightCodingContest/Challenge1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CloudflightCodingContest/Challenge1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CloudflightCodingContest/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Challenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Challenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input1.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +39,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LucasFelber\Documents\CloudflightCodingContest\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Challenge2_copy">
     <configuration name="Challenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Challenge1" />
       <module name="CloudflightCodingContest" />
@@ -44,8 +57,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Challenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge2" />
+      <module name="CloudflightCodingContest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge2" />
+      <module name="CloudflightCodingContest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Challenge2_new" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge2_new" />
+      <module name="CloudflightCodingContest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Challenge2_copy" />
+        <item itemvalue="Application.Challenge2_new" />
+        <item itemvalue="Application.Challenge2" />
         <item itemvalue="Application.Challenge1" />
       </list>
     </recent_temporary>
@@ -61,7 +98,8 @@
       <workItem from="1636015451950" duration="1621000" />
       <workItem from="1636017116984" duration="1647000" />
       <workItem from="1636053369197" duration="1502000" />
-      <workItem from="1636101178634" duration="364000" />
+      <workItem from="1636101178634" duration="7956000" />
+      <workItem from="1636109222040" duration="1034000" />
     </task>
     <servers />
   </component>
